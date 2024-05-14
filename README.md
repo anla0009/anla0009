@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anla0009
 - 👀 I’m interested in !!!
-- 🌱 I’m currently learning kode
+- 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on !!!
 - 📫 How to reach me !!!
 - 😄 Pronouns: he
